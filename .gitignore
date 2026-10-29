@@ -1,0 +1,22 @@
+
+# Virtual environments
+env/
+.venv/
+venv/
+
+# API keys and secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+
+# Log files
+*.log
